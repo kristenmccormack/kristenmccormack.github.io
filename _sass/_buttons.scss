@@ -10,12 +10,13 @@
   /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.125em 0.25em;
+  padding: 0;
   color: #link-color !important;
   text-align: center;
   text-decoration: none !important;
+  background: none !important;
   background-color: $background-color;
-  border: 0 !important;
+  border: none !important;
   border-radius: $border-radius;
   cursor: pointer;
 
@@ -58,14 +59,14 @@
   /* light outline */
 
   &--light-outline {
-    border: 1px solid #fff !important; /* override*/
+    border: none !important; /* override*/
     background-color: transparent;
   }
 
   /* information */
 
   &--info {
-    background-color: $info-color;
+    background-color: none;
 
     &:hover {
       background-color: mix(#000, $info-color, 20%);
