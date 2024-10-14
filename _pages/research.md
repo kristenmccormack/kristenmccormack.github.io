@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-<font size = "5">Job market paper</font>
+<font size = "5"; style="margin-bottom:1rem">Job market paper</font>
 
 <p style="margin-bottom:0; margin--top:1em"> Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
