@@ -88,8 +88,7 @@
       border-radius: 0;
 
       &:hover {
-        //color: $link-color-hover;
-		color: $link-color;
+        color: $link-color-hover;
       }
 
       &.current {
@@ -436,7 +435,8 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
+      //color: #000;
+	  color: $link-color-hover;
       background: $lighter-gray;
     }
   }
