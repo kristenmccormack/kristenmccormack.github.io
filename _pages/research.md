@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Education under extremes: Temperature, student absenteeism, and disciplinary infractions.](https://kristen-mccormack.com/files/mccormack_jmp.pdf) 2022. Job Market Paper. 
+[Education under extremes: Temperature, student absenteeism, and disciplinary infractions.](https://kristen-mccormack.com/files/mccormack_jmp.pdf) Job Market Paper. 
 <details style="margin-top: -20px;">
     <summary>Abstract</summary>
 	How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.
