@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: false
 ---
 
-<font size = "5">Job market paper</font>
+<font size = "4.5">Job market paper</font>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
-<div class="popup" id="abs7" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
+<div class="popup" id="abs7" style="display: none; margin-bottom:2rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
 
 
-<font size = "5">Published papers</font>
+<font size = "4.5">Published papers</font>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />The price of biodiesel RINs and economic fundamentals (with Scott H. Irwin and James H. Stock) American Journal of Agricultural Economics, 2020</p>
 <p style="margin-bottom:0; color:#666"><em>Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
@@ -37,7 +37,7 @@ author_profile: false
 
 <p style="margin-bottom:0">Using weather forecasts to help manage meningitis in the West African Sahel (with Rajul Pandya, Abraham Hodgson, and others) Bulletin of the American Meteorological Society, 2015</p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs2&quot;)">abstract</button> | <a href="/files/BAMS_2015.pdf" target="_blank">paper</a>  | <a href="https://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-13-00121.1" target="_blank">html</a> ]</div>
-<div class="popup" id="abs2" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">Understanding and acting on the link between weather and meningitis in the Sahel could help improve vaccine distribution and save lives. People living there know that meningitis epidemics occur in the dry season and end after the start of the rainy season. Integrating and analyzing newly available epidemiological and meteorological data quantified this relationship, showing that that the risk of meningitis epidemics climbed from a background level of 2% to a maximum risk of 25% during the dry season. These data also suggested that, of all meteorological variables, relative humidity has the strongest correlation to cases of meningitis.
+<div class="popup" id="abs2" style="display: none; margin-bottom:2rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">Understanding and acting on the link between weather and meningitis in the Sahel could help improve vaccine distribution and save lives. People living there know that meningitis epidemics occur in the dry season and end after the start of the rainy season. Integrating and analyzing newly available epidemiological and meteorological data quantified this relationship, showing that that the risk of meningitis epidemics climbed from a background level of 2% to a maximum risk of 25% during the dry season. These data also suggested that, of all meteorological variables, relative humidity has the strongest correlation to cases of meningitis.
 
 	<br /><br />Weather acts alongside a complex set of environmental, social, and economic drivers, and a complementary investigation of local and regional knowledge, attitudes, and practices suggested several additional interventions to manage meningitis. These include improved awareness of early meningitis symptoms and vaccinations for farmworkers who migrate seasonally. An economic survey showed that the cost of a single case of meningitis is 3 times the average annual household income, underscoring the need for improved vaccination strategy.
 
@@ -45,7 +45,7 @@ author_profile: false
 </div>
 
 
-<p style="margin-bottom:0; margin-top:-1em"> <br /><b>Research in progress</b></p>
+<font size = "4.5">Research in progress</font>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn)</p>
 
