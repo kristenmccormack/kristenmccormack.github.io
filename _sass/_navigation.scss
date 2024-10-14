@@ -188,6 +188,10 @@
       color: $masthead-link-color-hover;
     }
 	
+	&.current {
+        color: $masthead-link-color-hover !important;
+      }
+	
   }
 
   button {
