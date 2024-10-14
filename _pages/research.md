@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: false
 ---
 
-<font size = "4.5">Job market paper</font>
+<font size = "5">Job market paper</font>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</p>
-<div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
+<div class="buttonbar" style="margin-bottom:2rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
 <div class="popup" id="abs7" style="display: none; margin-bottom:2rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
 
 
-<font size = "4.5">Published papers</font>
+<font size = "5">Published papers</font>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />The price of biodiesel RINs and economic fundamentals (with Scott H. Irwin and James H. Stock) American Journal of Agricultural Economics, 2020</p>
 <p style="margin-bottom:0; color:#666"><em>Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
@@ -45,7 +45,7 @@ author_profile: false
 </div>
 
 
-<font size = "4.5">Research in progress</font>
+<font size = "5">Research in progress</font>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn)</p>
 
