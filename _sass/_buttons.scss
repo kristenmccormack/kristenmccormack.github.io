@@ -11,9 +11,9 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0;
-  color: #link-color !important;
+  color: $link-color !important;
   text-align: center;
-  text-decoration: none !important;
+  text-decoration: underline !important;
   background: none !important;
   background-color: $background-color;
   border: none !important;
@@ -59,7 +59,8 @@
   /* light outline */
 
   &--light-outline {
-    border: none !important; /* override*/
+    color: $link-color !important;
+	border: none !important; /* override*/
     background-color: transparent;
 	text-decoration: underline !important;
   }
