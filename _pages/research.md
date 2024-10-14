@@ -45,7 +45,7 @@ author_profile: false
 </div>
 
 
-<p style="margin-bottom:0; margin-top:.5em"> <br /><b>Research in Progress</b></p>
+<p style="margin-bottom:0; margin-top:0em"> <br /><b>Research in Progress</b></p>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn)</p>
 
