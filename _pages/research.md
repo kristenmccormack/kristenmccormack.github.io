@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: false
 ---
 
-<font size = "6">Job market paper</font>
+<font size = "5">Job market paper</font>
+
 <p style="margin-bottom:0; margin--top:1em"> Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
 <div class="popup" id="abs7" style="display: none; margin-bottom:1rem">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
 
 
-<font size = "6">Publications</font>
+<font size = "5">Publications</font>
+
 <p style="margin-bottom:0; margin--top:1em">The price of biodiesel RINs and economic fundamentals. (with Scott H. Irwin and James H. Stock)</p>
 <p style="margin-bottom:0; color:#666"><em>American Journal of Agricultural Economics, 2020</em></p>
 <p style="margin-bottom:0; color:#666"><em>Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
@@ -34,12 +36,12 @@ author_profile: false
 <p style="margin-bottom:0">The Supreme Court’s stay of the Clean Power Plan: Economic assessment and implications for the future. (with Joshua Linn and Dallas Burtraw)</p>
 <p style="margin-bottom:0; color:#666"><em>Environmental Law Reporter, 2016</em></p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/files/ELR_2016.pdf" target="_blank">paper</a>  | <a href="https://elr.info/news-analysis/46/10859/supreme-court%E2%80%99s-stay-clean-power-plan-economic-assessment-and-implications-future" target="_blank">html</a> ]</div>
-<div class="popup" id="abs3" style="display: none; margin-bottom:1rem">The Clean Power Plan (CPP) is expected to play an important role in reducing U.S. greenhouse gas emissions. In February 2016, responding to appeals from some of the affected industries and states, the U.S. Supreme Court issued a stay suspending implementation of the CPP until after the judicial review process. Industry groups stated the CPP will pose large and "irreparable" costs to the coal sector during the period of judicial review. However, modeling suggests that because of prevailing market, technological, and policy trends, the CPP will result in near-zero costs beyond current trends until 2025, in part because of the plan's built-in flexibility. These factors and lessons from option theory suggest the stay is economically unjustifiable based on claims of irreparable economic harm to the coal sector. If implementation of the rule proceeds, current trends imply the stay will have little effect on industry's ability to follow the current compliance schedule.</div>
+<div class="popup" id="abs1" style="display: none; margin-bottom:1rem">The Clean Power Plan (CPP) is expected to play an important role in reducing U.S. greenhouse gas emissions. In February 2016, responding to appeals from some of the affected industries and states, the U.S. Supreme Court issued a stay suspending implementation of the CPP until after the judicial review process. Industry groups stated the CPP will pose large and "irreparable" costs to the coal sector during the period of judicial review. However, modeling suggests that because of prevailing market, technological, and policy trends, the CPP will result in near-zero costs beyond current trends until 2025, in part because of the plan's built-in flexibility. These factors and lessons from option theory suggest the stay is economically unjustifiable based on claims of irreparable economic harm to the coal sector. If implementation of the rule proceeds, current trends imply the stay will have little effect on industry's ability to follow the current compliance schedule.</div>
 
 <p style="margin-bottom:0">Using weather forecasts to help manage meningitis in the West African Sahel. (with Rajul Pandya, Abraham Hodgson, and others))</p>
 <p style="margin-bottom:0; color:#666"><em>Bulletin of the American Meteorological Society, 2015</em></p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/files/BAMS_2015.pdf" target="_blank">paper</a>  | <a href="https://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-13-00121.1" target="_blank">html</a> ]</div>
-<div class="popup" id="abs3" style="display: none; margin-bottom:1rem">Understanding and acting on the link between weather and meningitis in the Sahel could help improve vaccine distribution and save lives. People living there know that meningitis epidemics occur in the dry season and end after the start of the rainy season. Integrating and analyzing newly available epidemiological and meteorological data quantified this relationship, showing that that the risk of meningitis epidemics climbed from a background level of 2% to a maximum risk of 25% during the dry season. These data also suggested that, of all meteorological variables, relative humidity has the strongest correlation to cases of meningitis.
+<div class="popup" id="abs2" style="display: none; margin-bottom:1rem">Understanding and acting on the link between weather and meningitis in the Sahel could help improve vaccine distribution and save lives. People living there know that meningitis epidemics occur in the dry season and end after the start of the rainy season. Integrating and analyzing newly available epidemiological and meteorological data quantified this relationship, showing that that the risk of meningitis epidemics climbed from a background level of 2% to a maximum risk of 25% during the dry season. These data also suggested that, of all meteorological variables, relative humidity has the strongest correlation to cases of meningitis.
 
 	Weather acts alongside a complex set of environmental, social, and economic drivers, and a complementary investigation of local and regional knowledge, attitudes, and practices suggested several additional interventions to manage meningitis. These include improved awareness of early meningitis symptoms and vaccinations for farmworkers who migrate seasonally. An economic survey showed that the cost of a single case of meningitis is 3 times the average annual household income, underscoring the need for improved vaccination strategy.
 
@@ -49,7 +51,7 @@ author_profile: false
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs3", "abs4", "abs7"];
+  var ids = ["abs1", "abs2", "abs3", "abs4", "abs7"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
