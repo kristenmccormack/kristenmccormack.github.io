@@ -1,19 +1,21 @@
 ---
 layout: single
 classes: wide
-title: "Research"
 permalink: /research/
 author_profile: false
 ---
 
 {% include base_path %}
 
-[Education under extremes: Temperature, student absenteeism, and disciplinary infractions.](https://kristen-mccormack.com/files/mccormack_jmp.pdf) Job Market Paper. 
+<h3>Job Market Paper</h3>
+
+[Education under extremes: Temperature, student absenteeism, and disciplinary infractions.](https://kristen-mccormack.com/files/mccormack_jmp.pdf)  
 <details style="margin-top: -20px; margin-bottom: 1rem;">
     <summary>Abstract</summary>
 	How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.
 </details>
 
+<h3>Published Papers</h3>
 
 [The price of biodiesel RINs and economic fundamentals.](https://onlinelibrary.wiley.com/doi/full/10.1002/ajae.12014) 2020. (with Scott H. Irwin and James H. Stock). American Journal of Agricultural Economics. <a href="/files/AJAE_2020.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a> Discussion (Bruce A. Babcock) <a href="/files/AJAE_2020_discussion.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a> Response <a href="/files/AJAE_2020_response.pdf" target="_blank" rel="noopener noreferrer"> <img alt="drawing" src="/images/pdf.png" width="25"></a>
 Agricultural & Applied Economics Association Quality of Research Discovery Award.
