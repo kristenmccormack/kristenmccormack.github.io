@@ -50,7 +50,7 @@ author_profile: false
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Does access to primary health care reduce morbidity from air pollution?</p>
 
-<p style="margin-bottom:0; margin-top:-1em"> <br />Air pollution and student </p>
+<p style="margin-bottom:0; margin-top:-1em"> <br />Air pollution and student absences in a large urban school district </p>
 
 <script>
 function button(id) {
