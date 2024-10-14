@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $masthead-link-color-hover;
 
   a {
     display: block;
@@ -357,7 +357,6 @@
 
     &:hover {
       text-decoration: underline;
-	  text-decoration-color: masthead-link-color;
     }
   }
 
