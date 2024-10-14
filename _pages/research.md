@@ -6,13 +6,13 @@ permalink: /research/
 author_profile: false
 ---
 
-<strong><font size = "4">Job market paper</font></strong>
+<font size = "4">Job market paper</font>
 <p style="margin-bottom:0"> Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</p>
 <div class="buttonbar" style="margin-bottom:1rem">[ <button class="btn btn--light-outline" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
 <div class="popup" id="abs7" style="display: none; margin-bottom:1rem">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
 
 
-<strong><font size = "4">Publications</font></strong>
+<font size = "4">Publications</font>
 <p style="margin-bottom:0">The price of biodiesel RINs and economic fundamentals. (with Scott H. Irwin and James H. Stock)</p>
 <p style="margin-bottom:0; color:#666"><em>American Journal of Agricultural Economics, 2020</em></p>
 <p style="margin-bottom:0; color:#666"><em>Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
