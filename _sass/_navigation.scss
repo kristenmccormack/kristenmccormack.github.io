@@ -188,8 +188,9 @@
       color: $masthead-link-color-hover;
     }
 	
-	&:active {
+	&:hover {
       color: $masthead-link-color-hover;
+	}
   }
 
   button {
