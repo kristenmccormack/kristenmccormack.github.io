@@ -1,20 +1,25 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: <font color = "#828282">Economist, Office of Tax Analysis<br>U.S. Department of the Treasury</font>
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-    
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
-I am an economist at the U.S. Treasury Office of Tax Analysis. I received my Ph.D. from Harvard University in 2023, with a disciplinary focus in environmental, public, and labor economics. My research examines how climate change and air pollution exacerbate social inequality and the opportunities for policy to mitigate these impacts. 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Prior to graduate school, I worked as a research assistant at Resources for the Future. I graduated *summa cum laude* from Pomona College, with a B.A. in Economics. My research has been published in the *American Journal of Agricultural Economics*, *RAND Journal of Economics*, *Energy Policy*, *Environmental Law Reporter*, and the *Bulletin of the American Meteorological Society*. 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
