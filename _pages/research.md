@@ -12,9 +12,7 @@ nav_order: 1
 <strong><font size = "4">Job market paper</font></strong>
 
 <p style="margin-bottom:0; margin-top:-.5em">Education under extremes: Temperature, student absenteeism, and disciplinary infractions.</p>
-<p style="margin-bottom:0; color:#666"><em>Joseph Crump Fellowship, Harvard Kennedy School</em></p>
-<p style="margin-bottom:0; color:#666"><em>Ana Aguado Prize, Harvard Environmental Economics Program</em></p>
-<p style="margin-bottom:0; color:#666"><em>Christopher and Silvana Pascucci Graduate Student Dissertation Fellowship</em></p>
+<p style="margin-bottom:0; color:#666"><em>* Winner of the Joseph Crump Fellowship, the Harvard Environmental Economics Program Ana Aguado Prize, and the Christopher and Silvana Pascucci Graduate Student Dissertation Fellowship </em></p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs6&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> ]</div>
 <div class="popup" id="abs6" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black and Hispanic students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
 
@@ -22,7 +20,7 @@ nav_order: 1
 <strong><font size = "4">Published papers</font></strong>
 
 <p style="margin-bottom:0; margin-top:-.5em">The price of biodiesel RINs and economic fundamentals (with Scott H. Irwin and James H. Stock) American Journal of Agricultural Economics, 2020</p>
-<p style="margin-bottom:0; color:#666"><em>Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
+<p style="margin-bottom:0; color:#666"><em>* Winner of the Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs4&quot;)">abstract</button> | <a href="/assets/pdf/papers/AJAE_2020.pdf" target="_blank">paper</a> | <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ajae.12014" target="_blank">html</a> | <a href="/assets/pdf/papers/AJAE_2020_discussion.pdf" target="_blank">discussion (Bruce A. Babcock)</a> | <a href="/assets/pdf/papers/AJAE_2020_response.pdf" target="_blank">response</a> ]</div>
 <div class="popup" id="abs4" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">The D4 RIN is the tradable compliance certificate for the biomass-based diesel (BBD) mandate in the renewable fuel standard (RFS). Understanding the price dynamics of the D4 RIN is important for understanding the RFS because its price sets a ceiling on the ethanol RIN (D6) and because some observers have suggested that RIN price fluctuations are too large to be explained by economic theory. We use option pricing theory to develop a model of the D4 RIN in terms of its economic fundamentals: the spread between the price of biodiesel and petroleum diesel and the status of the biodiesel blenders’ tax credit. The resulting D4 fundamental price closely tracks actual D4 prices. We conclude that RIN price volatility arises because of the design of the RFS and intrinsic features of the U.S. fuel supply system.</div>
 
