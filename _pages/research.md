@@ -54,7 +54,27 @@ nav_order: 1
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Does access to primary health care reduce morbidity from air pollution?</p>
 
-<p style="margin-bottom:0; margin-top:-1em"> <br />Air pollution and student absences in a large urban school district </p>
+<p style="margin-bottom:1em; margin-top:-1em"> <br />Air pollution and student absences in a large urban school district </p>
+
+
+<details style="margin-top: 0px; margin-bottom: 1rem;">
+    <summary><strong><font size = "4">Other writing</font></strong></summary>
+	
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://thelittledataset.com/2020/06/17/research-and-gender-during-a-pandemic/" target="_blank">Who's Talking about their COVID-19 Research?</a> (with Alex Albright, Stephanie Kestelman, and Isabel Harbaugh Macdonald) 2020. </p>
+
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://www.resources.org/archives/is-halting-the-clean-power-plan-economically-justified/" target="_blank">Is Halting the Clean Power Plan Economically Justified?</a> (with Dallas Burtraw and Joshua Linn) Resources, 2016. </p>
+
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://www.rff.org/publications/reports/approaches-to-address-potential-co2-emissions-leakage-to-new-sources-under-the-clean-power-plan/" target="_blank">Approaches to Address Potential CO2 Emissions Leakage to New Sources under the Clean Power Plan</a> (with Dallas Burtraw, Joshua Linn, Karen L. Palmer, Anthony Paul, and Hang Yin) RFF Report, 2016. </p>
+
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://www.resources.org/archives/clearing-the-air-how-market-based-policies-help-meet-the-tighter-us-ozone-limit/" target="_blank">Clearing the Air: How Market-Based Policies Help Meet the Tighter US Ozone Limit</a> (with Joshua Linn and Alan Krupnick) Resources, 2016. </p>
+
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://media.rff.org/documents/RFF-IB-15-03.pdf" target="_blank">Defining the Unknown: A Look at the Cost of Tighter Ozone Standards</a> (with Joshua Linn and Alan Krupnick) RFF Issue Brief, 2015 </p>
+
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://www.urban.org/research/publication/reversing-medicaid-fee-bump-how-much-could-medicaid-physician-fees-primary-care-fall-2015" target="_blank">Reversing the Medicaid fee bump: How much could Medicaid physician fees for primary care fall in 2015?</a> (with Stephen Zuckerman and Laura Skopec) Urban Institute Health Policy Center Brief, 2014. </p>
+
+	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://sciencepolicy.colorado.edu/admin/publication_files/2014.60.pdf" target="_blank">Wind energy resource assessment: Information production, uses, and value</a> (with Katherine Dickinson, Luca Delle Monache, and Pierre Magontier) NCAR Technical Note, 2014. </p>
+
+</details>
 
 
 <script>
