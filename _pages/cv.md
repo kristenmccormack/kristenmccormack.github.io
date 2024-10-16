@@ -1,11 +1,13 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
+order: 3
+description: 
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+hide_header: true
+redirect_from:
+  - /resume
 ---
+
+[<b><font size = "4">Current CV (Updated May, 2023)</font></b>](/assets/pdf/cv/McCormack_cv.pdf)
