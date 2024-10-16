@@ -6,7 +6,7 @@ subtitle: <font color = "#828282">Economist, Office of Tax Analysis<br>U.S. Depa
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
 
     
 news: false  # includes a list of news items
