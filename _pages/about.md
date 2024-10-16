@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <font color = "#828282">Economist, Office of Tax Analysis<br>U.S. Department of the Treasury</font>
+#subtitle: <font color = "#828282">Economist, Office of Tax Analysis<br>U.S. Department of the Treasury</font>
 
 profile:
   align: right
