@@ -1,10 +1,13 @@
 ---
-layout: archive
+layout: page
 permalink: /cv/
-author_profile: false
+title: CV
+order: 3
+description: 
+nav: true
+hide_header: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-[Current CV (Updated May, 2023)](/files/McCormack_cv.pdf)
+[<b><font size = "4">Current CV (Updated May, 2023)</font></b>](/assets/pdf/cv/McCormack_cv.pdf)
