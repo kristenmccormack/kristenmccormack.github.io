@@ -27,7 +27,7 @@ nav_order: 2
 
 <strong>American Economic Policy</strong> ([Fall 2019](https://kristen-mccormack.com/assets/pdf/teaching/econ1420/harvard_econ1420_syllabus_19.pdf))
 * My Role: Teaching Fellow
-* Harvard Economics Department (Econ 1420), Harvard Kennedy School (API-127)
+* Harvard Economics Department (Econ 1420), Harvard Kennedy School (API-126)
 * Professors: Jeffrey Liebman and Lawrence Summers  
 
 
