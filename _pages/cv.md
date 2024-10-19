@@ -10,4 +10,4 @@ redirect_from:
   - /resume
 ---
 
-[<b><font size = "4">Current CV (Updated May, 2023)</font></b>](/assets/pdf/cv/mccormack_cv.pdf)
+[<b><font size = "4">Current CV </font></b>](/assets/pdf/cv/mccormack_cv.pdf)
