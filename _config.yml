@@ -143,7 +143,7 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-imagemagick
+  # - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
@@ -218,21 +218,21 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
 
-imagemagick:
-  enabled: false
-  widths:
-    - 480
-    - 800
-    - 1400
-  input_directories:
-    - assets/img/
-  input_formats:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-  output_formats:
-    webp: "-quality 75%"
+# imagemagick:
+  # enabled: false
+  # widths:
+    # - 480
+    # - 800
+    # - 1400
+  # input_directories:
+    # - assets/img/
+  # input_formats:
+    # - ".jpg"
+    # - ".jpeg"
+    # - ".png"
+    # - ".tiff"
+  # output_formats:
+    # webp: "-quality 75%"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
@@ -247,7 +247,7 @@ imagemagick:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_responsive_images:   false
+# enable_responsive_images:   false
 enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
