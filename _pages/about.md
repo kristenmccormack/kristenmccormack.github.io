@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an economist at the U.S. Treasury Office of Tax Analysis, with a disciplinary focus in environmental, public, and labor economics. I received my Ph.D. from Harvard University in 2023, where I was a <a href="https://heep.hks.harvard.edu/" target="_blank">Harvard Environmental Economics Program</a> Pre-Doctoral Fellow. 
+I am an economist at the U.S. Treasury Office of Tax Analysis, with a disciplinary focus in environmental, public, and labor economics. I received my Ph.D. from Harvard University in 2023, where I was a <a href="https://heep.hks.harvard.edu/" target="_blank">Harvard Environmental Economics Program</a> Pre-Doctoral Fellow. My research examines how climate change and air pollution exacerbate inequality and the opportunities for policy to mitigate these impacts.
 
 Prior to graduate school, I worked as a research assistant at Resources for the Future. I graduated *summa cum laude* from Pomona College, with a B.A. in Economics. My research has been published in the *American Journal of Agricultural Economics*, *RAND Journal of Economics*, *Energy Policy*, *Environmental Law Reporter*, and the *Bulletin of the American Meteorological Society*. 
 
