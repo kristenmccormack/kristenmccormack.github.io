@@ -53,7 +53,7 @@ nav_order: 1
 <strong><font size = "4">Research in progress</font></strong>
 <p style="margin-bottom:0; margin-top:-2em"> <br />Policy Options to Achieve US Sustainable Aviation Fuel Targets (with Mengying Wu, William A. Scott, Aaron Smith, Jingran Zhang, and James H. Stock).</p>
 
-<p style="margin-bottom:0; margin-top:0em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn).</p>
+<p style="margin-bottom:0; margin-top:-1em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn).</p>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Does access to primary health care reduce morbidity from air pollution?</p>
 
