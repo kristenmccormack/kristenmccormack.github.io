@@ -20,7 +20,7 @@ nav_order: 1
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs6&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> | <a href="https://www.resources.org/resources-radio/resources-radio-sweating-over-student-behavior-in-hot-schools-with-kristen-mccormack/" target="_blank">podcast</a> ]</div>
 <div class="popup" id="abs6" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black, Hispanic, and lower-income students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that warming temperatures may lead to more student behavioral problems and that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
 
-<strong><font size = "4">Published papers</font></strong>
+<strong><font size = "4">Published Papers</font></strong>
 
 <p style="margin-bottom:0; margin-top:-.5em">The price of biodiesel RINs and economic fundamentals (with Scott H. Irwin and James H. Stock) American Journal of Agricultural Economics, 2020.</p>
 <p style="margin-bottom:0; color:#666"><em>* Winner of the Agricultural & Applied Economics Association Quality of Research Discovery Award</em></p>
@@ -53,9 +53,9 @@ nav_order: 1
 </div>
 
 
-<strong><font size = "4">Research in progress</font></strong>
+<strong><font size = "4">Research in Progress</font></strong>
 
-<p style="margin-bottom:0; margin-top:-1em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn).</p>
+<p style="margin-bottom:0; margin-top:-2em"> <br />Operation of emissions controls in US coal-fired power plants (with Joshua Linn).</p>
 
 <p style="margin-bottom:0; margin-top:-1em"> <br />Does access to primary health care reduce morbidity from air pollution?</p>
 
