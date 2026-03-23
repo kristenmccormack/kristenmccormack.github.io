@@ -89,7 +89,7 @@ nav_order: 1
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "desc1", "desc2", "desc3", "desc4", "com7"];
+  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
