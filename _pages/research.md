@@ -30,6 +30,7 @@ nav_order: 1
 	Press: <a href="https://www.politico.com/newsletters/california-climate/2026/03/10/a-man-a-plan-a-plane-fuel-00822167" target="_blank">Politico (California Climate)</a> | <a href="https://www.eenews.net/articles/legislative-analyst-pans-newsoms-sustainable-aviation-fuel-tax-credit-proposal/" target="_blank">E&E News</a><br />
 	Policy: <a href="https://lao.ca.gov/Publications/Report/5139" target="_blank">CA Legislative Analyst's Office</a>
 </div>
+</div> 
 
 <p style="margin-bottom:0; margin-top:0em">Education under extremes: Temperature, student absenteeism, and disciplinary infractions, 2023. </p>
 <p style="margin-bottom:0; color:#666"><em>* Winner of the Joseph Crump Fellowship, the Harvard Environmental Economics Program Ana Aguado Prize, and the Christopher and Silvana Pascucci Graduate Student Dissertation Fellowship </em></p>
@@ -99,7 +100,7 @@ nav_order: 1
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7" "com7c"];
+  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7", "com7c"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
