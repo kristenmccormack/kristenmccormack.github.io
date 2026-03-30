@@ -13,24 +13,19 @@ nav_order: 1
 
 <p style="margin-bottom:0; margin-top:-2em">
   <br />Policy options to achieve US sustainable aviation fuel targets (with Mengying Wu, William A. Scott, Aaron Smith, Jingran Zhang, and James H. Stock) NBER Working Paper, 2025.</p>
-<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="https://www.nber.org/papers/w34326" target="_blank">paper</a> | <button class="button" onclick="button(&quot;com7&quot;)">commentary</button> ]</div>
+<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs7&quot;)">abstract</button> | <a href="https://www.nber.org/papers/w34326" target="_blank">paper</a> | <a href="https://energyathaas.wordpress.com/2025/10/06/what-if-we-required-airplanes-to-use-more-biofuels/" target="_blank">blog</a> | <a href="https://www.eenews.net/articles/sustainable-aviation-fuel-offers-lifeline-to-ethanol-researchers-say/" target="_blank">E&E News</a> ]</div>
 <div class="popup" id="abs7" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">Decarbonizing aviation in the short term will likely entail replacing large quantities of petroleum jet fuel with sustainable aviation fuels (SAFs), which are predominantly biofuels. In the United States, biofuels are currently used as substitutes for gasoline and diesel in road transportation and are supported by a complex set of federal and state policies including the Renewable Fuel Standard (RFS), state low carbon fuel standards, and state and federal tax credits. Policies promoting SAF therefore interact with surface transport biofuel policies. In this paper, we use a new detailed partial equilibrium model of road and air transportation fuel markets to compare various policy options designed to achieve a target of 3 billion gallons of SAF by 2030. Our results suggest that the target is attainable with current technology but not with current policy. Several potential federal policies, including modifications to the existing RFS, a federal SAF tax credit, or a clean aviation standard could meet the 3 billion gallon target with similar emissions reductions and costs but different incidence. The lowest cost policy we study entails replacing all current biofuels policies with a modest carbon tax on fossil transportation fuels paired with a SAF tax credit.</div>
-<div class="popup" id="com7" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">
-  Blog: <a href="https://energyathaas.wordpress.com/2025/10/06/what-if-we-required-airplanes-to-use-more-biofuels/" target="_blank">SAF & Policy Interactions (Energy Institute at Haas)</a> <br />
-  Press:  <a href="https://www.eenews.net/articles/sustainable-aviation-fuel-offers-lifeline-to-ethanol-researchers-say/" target="_blank">E&E News</a><br />
-</div>
 
 <!-- Companion WP (indented) -->
 <div style="margin-left: 2rem; margin-top: 0.5rem;">
   <p style="margin-bottom:0; margin-top:0">
     Companion Working Paper: Effects of the proposed new California SAF tax credit (with same coauthors) Energy Institute at Haas Working Paper, 2026.</p>
-  <div class="buttonbar">[ <a href="https://haas.berkeley.edu/wp-content/uploads/WP-357.pdf" target="_blank">paper</a> | <button class="button" onclick="button(&quot;com7c&quot;)">commentary</button> ]</div>
+  <div class="buttonbar">[ <a href="https://haas.berkeley.edu/wp-content/uploads/WP-357.pdf" target="_blank">paper</a> | <a href="https://www.resources.org/common-resources/high-costs-and-few-benefits-from-californias-proposed-sustainable-aviation-fuel-tax-credit/" target="_blank">blog</a> | <button class="button" onclick="button(&quot;com7c&quot;)">commentary</button> ]</div>
   <div class="popup" id="com7c" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">
-	Blog: <a href="https://www.resources.org/common-resources/high-costs-and-few-benefits-from-californias-proposed-sustainable-aviation-fuel-tax-credit/" target="_blank">High Costs and Few Benefits from CA's Proposed SAF Tax Credit (Resources.org)</a><br />
-	Press: <a href="https://www.politico.com/newsletters/california-climate/2026/03/10/a-man-a-plan-a-plane-fuel-00822167" target="_blank">Politico (California Climate)</a> | <a href="https://www.eenews.net/articles/legislative-analyst-pans-newsoms-sustainable-aviation-fuel-tax-credit-proposal/" target="_blank">E&E News</a><br />
-	Policy: <a href="https://lao.ca.gov/Publications/Report/5139" target="_blank">CA Legislative Analyst's Office</a>
+    Press: <a href="https://www.politico.com/newsletters/california-climate/2026/03/10/a-man-a-plan-a-plane-fuel-00822167" target="_blank">Politico (California Climate)</a> | <a href="https://www.eenews.net/articles/legislative-analyst-pans-newsoms-sustainable-aviation-fuel-tax-credit-proposal/" target="_blank">E&E News</a><br />
+    Policy: <a href="https://lao.ca.gov/Publications/Report/5139" target="_blank">CA Legislative Analyst's Office</a>
+  </div>
 </div>
-</div> 
 
 <p style="margin-bottom:0; margin-top:0em">Education under extremes: Temperature, student absenteeism, and disciplinary infractions, 2023. </p>
 <p style="margin-bottom:0; color:#666"><em>* Winner of the Joseph Crump Fellowship, the Harvard Environmental Economics Program Ana Aguado Prize, and the Christopher and Silvana Pascucci Graduate Student Dissertation Fellowship </em></p>
@@ -50,9 +45,8 @@ nav_order: 1
 
 
 <p style="margin-bottom:0">The roles of energy markets and environmental regulation in reducing coal-fired plant profits and electricity sector emissions (with Joshua Linn) RAND Journal of Economics, 2019.</p>
-<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/assets/pdf/papers/RAND_2019.pdf" target="_blank">paper</a>  | <a href="https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12294" target="_blank">html</a> ]</div>
+<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs3&quot;)">abstract</button> | <a href="/assets/pdf/papers/RAND_2019.pdf" target="_blank">paper</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12294" target="_blank">html</a> | <a href="https://www.nytimes.com/2025/04/09/climate/trump-executive-orders-coal.html" target="_blank">New York Times</a> ]</div>
 <div class="popup" id="abs3" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">Between 2005 and 2015, US electricity sector emissions of nitrogen oxides and sulfur dioxide, which harm human health and the environment, declined by two thirds, and many coal-fired power plants became unprofitable and retired. Intense public controversy has focused on these changes, but the literature has not identified their underlying causes. Using a new electricity sector model of the US eastern interconnection that accurately reproduces unit operation, emissions, and retirement, we find that electricity consumption and natural gas prices account for nearly all the coal plant profitability declines and resulting retirements. Environmental regulations had little effect on these outcomes.</div>
-
 
 <p style="margin-bottom:0">Consignment auctions of free emissions allowances (with Dallas Burtraw) Energy Policy, 2017.</p>
 <div class="buttonbar">[ <button class="button" onclick="button(&quot;abs5&quot;)">abstract</button> | <a href="/assets/pdf/papers/EnergyPolicy_2017.pdf" target="_blank">paper</a>  | <a href="https://www.sciencedirect.com/science/article/pii/S0301421517302665" target="_blank">html</a> ]</div>
@@ -104,7 +98,7 @@ nav_order: 1
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7", "com7c", "com6"];
+  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7c", "com6"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
