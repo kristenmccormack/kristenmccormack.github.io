@@ -23,8 +23,8 @@ nav_order: 1
 <!-- Companion WP (indented) -->
 <div style="margin-left: 2rem; margin-top: 0.5rem;">
   <p style="margin-bottom:0; margin-top:0">
-    Effects of the proposed new California SAF tax credit</p>
-  <div class="buttonbar">[ <a href="https://haas.berkeley.edu/energy-institute/research/abstracts/wp-357/" target="_blank">paper</a> | <button class="button" onclick="button(&quot;com7c&quot;)">commentary</button> ]</div>
+    Companion Working Paper: Effects of the proposed new California SAF tax credit (with Mengying Wu, William A. Scott, Aaron Smith, Jingran Zhang, and James H. Stock) Energy Institute at Haas Working Paper, 2026.</p>
+  <div class="buttonbar">[ <a href="https://haas.berkeley.edu/wp-content/uploads/WP-357.pdf" target="_blank">paper</a> | <button class="button" onclick="button(&quot;com7c&quot;)">commentary</button> ]</div>
   <div class="popup" id="com7c" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">
 	Blog: <a href="https://www.resources.org/common-resources/high-costs-and-few-benefits-from-californias-proposed-sustainable-aviation-fuel-tax-credit/" target="_blank">High Costs and Few Benefits from CA's Proposed SAF Tax Credit (Resources.org)</a><br />
 	Press: <a href="https://www.politico.com/newsletters/california-climate/2026/03/10/a-man-a-plan-a-plane-fuel-00822167" target="_blank">Politico (California Climate)</a> | <a href="https://www.eenews.net/articles/legislative-analyst-pans-newsoms-sustainable-aviation-fuel-tax-credit-proposal/" target="_blank">E&E News</a><br />
