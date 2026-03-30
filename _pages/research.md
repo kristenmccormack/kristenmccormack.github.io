@@ -23,7 +23,7 @@ nav_order: 1
 <!-- Companion WP (indented) -->
 <div style="margin-left: 2rem; margin-top: 0.5rem;">
   <p style="margin-bottom:0; margin-top:0">
-    Companion Working Paper: Effects of the proposed new California SAF tax credit (with Mengying Wu, William A. Scott, Aaron Smith, Jingran Zhang, and James H. Stock) Energy Institute at Haas Working Paper, 2026.</p>
+    Companion Working Paper: Effects of the proposed new California SAF tax credit (with same coauthors) Energy Institute at Haas Working Paper, 2026.</p>
   <div class="buttonbar">[ <a href="https://haas.berkeley.edu/wp-content/uploads/WP-357.pdf" target="_blank">paper</a> | <button class="button" onclick="button(&quot;com7c&quot;)">commentary</button> ]</div>
   <div class="popup" id="com7c" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">
 	Blog: <a href="https://www.resources.org/common-resources/high-costs-and-few-benefits-from-californias-proposed-sustainable-aviation-fuel-tax-credit/" target="_blank">High Costs and Few Benefits from CA's Proposed SAF Tax Credit (Resources.org)</a><br />
@@ -34,8 +34,12 @@ nav_order: 1
 
 <p style="margin-bottom:0; margin-top:0em">Education under extremes: Temperature, student absenteeism, and disciplinary infractions, 2023. </p>
 <p style="margin-bottom:0; color:#666"><em>* Winner of the Joseph Crump Fellowship, the Harvard Environmental Economics Program Ana Aguado Prize, and the Christopher and Silvana Pascucci Graduate Student Dissertation Fellowship </em></p>
-<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs6&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> | <a href="https://www.resources.org/resources-radio/resources-radio-sweating-over-student-behavior-in-hot-schools-with-kristen-mccormack/" target="_blank">podcast</a> ]</div>
+<div class="buttonbar">[ <button class="button" onclick="button(&quot;abs6&quot;)">abstract</button> | <a href="/files/mccormack_jmp.pdf" target="_blank">paper</a> | <a href="https://www.resources.org/resources-radio/resources-radio-sweating-over-student-behavior-in-hot-schools-with-kristen-mccormack/" target="_blank">podcast</a> | <button class="button" onclick="button(&quot;com6&quot;)">commentary</button> ]</div>
 <div class="popup" id="abs6" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">How does student behavior respond to extreme temperatures and who is most affected? Using daily student-level data from a large urban school district, I estimate the causal effect of temperature on two dimensions of student behavior that are predictive of academic and later life outcomes: school absences and disciplinary referrals. Absenteeism increases in response to both hot and cold conditions, particularly for Black, Hispanic, and lower-income students. Hot conditions also increase the likelihood that a student will receive a disciplinary referral, an effect found only among students attending schools without air conditioning. Results suggest that warming temperatures may lead to more student behavioral problems and that unequal access to air conditioning may exacerbate racial, ethnic, and socioeconomic disparities in school.</div>
+<div class="popup" id="com6" style="display: none; margin-bottom:1rem; padding-left: 1rem; border-left-width:thin; border-left: 1px solid #D3D3D3">
+  Press: <a href="https://www.bloomberg.com/news/features/2024-08-16/how-to-stay-safe-on-hot-days-tips-for-health-routine-and-tech" target="_blank">Bloomberg</a> | <a href="https://www.forbes.com/sites/billfrist/2025/01/22/students-feel-the-heat-elevating-the-connection-between-the-changing-climate-and-student-success/" target="_blank">Forbes</a> | <a href="https://www.nea.org/nea-today/all-news-articles/its-getting-hot-here-without-air-conditioning-students-and-staff-suffer" target="_blank">NEA Today</a> | <a href="https://grist.org/extreme-heat/extreme-heat-is-making-schools-hotter-and-learning-harder/" target="_blank">Grist</a> (originally in <a href="https://19thnews.org/2024/07/extreme-heat-impacts-classrooms-students-teachers-learning/" target="_blank">The 19th</a>)<br />
+  Policy: <a href="https://www.americanprogress.org/article/protecting-children-from-extreme-heat-is-critical-for-their-health-learning-and-development/" target="_blank">Center for American Progress</a> | <a href="https://blogs.worldbank.org/en/developmenttalk/education-and-climate-change-critical-role-adaptation-investments" target="_blank">World Bank</a>
+</div>
 
 <strong><font size = "4">Published Papers</font></strong>
 
@@ -100,7 +104,7 @@ nav_order: 1
 <script>
 function button(id) {
   var x = document.getElementById(id);
-  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7", "com7c"];
+  var ids = ["abs1", "abs2", "abs3", "abs4", "abs5", "abs6", "abs7", "com7", "com7c", "com6"];
   for(var i = 0; i < ids.length; i++) {
     var item = ids[i];
     if (item != id) {
