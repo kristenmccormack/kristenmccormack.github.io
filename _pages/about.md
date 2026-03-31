@@ -14,7 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an economist and fellow at Resources for the Future. My research focuses on the distributional effects of climate change and the design of energy and environmental policy under regulatory and market uncertainty. Prior to joining RFF, I was a financial economist at the U.S. Department of the Treasury's Office of Tax Analysis. 
+I am an economist and fellow at <a href="https://www.rff.org/people/kristen-mccormack/" target="_blank">Resources for the Future</a>. My research focuses on the distributional effects of climate change (especially <a href="https://www.rff.org/publications/explainers/extreme-heat-in-the-united-states/" target="_blank">extreme heat</a>) and the design of energy and environmental policy under regulatory and market uncertainty. Prior to joining RFF, I was a financial economist at the U.S. Department of the Treasury's Office of Tax Analysis.
 
-I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and graduated *summa cum laude* from Pomona College with a B.A. in Economics. My work has been published in the *American Journal of Agricultural Economics*, *RAND Journal of Economics*, *Energy Policy*, *Environmental Law Reporter*, and the *Bulletin of the American Meteorological Society*. 
-
+I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and graduated *summa cum laude* from Pomona College with a B.A. in Economics. See my <a href="/research/">research page</a> for published and working papers.
