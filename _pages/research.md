@@ -76,8 +76,8 @@ nav_order: 1
 <p style="margin-bottom:1em; margin-top:-1em"> <br />Air pollution and student absences in a large urban school district.</p>
 
 
-<details style="margin-top: 0px; margin-bottom: 1rem;">
-    <summary><strong><font size = "4">Other writing</font></strong></summary>
+<details id="reports" open style="margin-top: 0px; margin-bottom: 1rem;">
+    <summary><strong><font size = "4">Reports, Briefs, and Commentary</font></strong></summary>
 
 	<p style="margin-left:1em; margin-bottom:0; margin-top:-1em"> <br /><a href="https://www.resources.org/common-resources/losing-the-endangerment-finding-the-costs-and-benefits-of-repealing-greenhouse-gas-emissions-standards-for-power-plants/" target="_blank">Losing the Endangerment Finding: The costs and benefits of repealing greenhouse gas emissions standards for power plants</a> (with McKenna Peplinski and Bryan Hubbell) Resources, 2026. </p>
 
