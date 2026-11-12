@@ -23,7 +23,7 @@ I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and gr
 .focus-heading { font-size: 1.1rem; font-weight: 400; margin: 0 0 1rem; color: var(--global-text-color); }
 .focus-row { display: flex; gap: 1.5rem; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 4px 2px; scrollbar-width: none; }
 .focus-row::-webkit-scrollbar { display: none; }
-.focus-tile { flex: 0 0 150px; scroll-snap-align: start; background: none; border: 0; padding: 0; cursor: pointer; text-align: center; font: inherit; color: var(--global-text-color); }
+.focus-tile { flex: 0 0 150px; scroll-snap-align: start; background: none; border: 0; padding: 0; cursor: pointer; text-align: center; font: inherit; color: var(--global-text-color); ; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; }
 .focus-tile img { display: block; width: 96px; height: 96px; margin: 0 auto 0.5rem; object-fit: cover; border-radius: 50%; }
 .focus-tile[aria-expanded="true"] .focus-label { color: var(--global-theme-color); } /* delete this line to keep labels black */
 .focus-tile:focus-visible { outline: 2px solid var(--global-theme-color); outline-offset: 4px; border-radius: 8px; }
@@ -109,5 +109,4 @@ I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and gr
   window.addEventListener('resize', update);
   update();
 })();
-</script>
 </script>
