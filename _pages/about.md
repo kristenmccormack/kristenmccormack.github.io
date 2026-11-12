@@ -20,7 +20,7 @@ I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and gr
 
 <style>
 .focus { clear: both; max-width: 640px; margin: 2rem 0 2.5rem; }
-.focus-heading { font-size: 1.1rem; font-weight: 400; margin: 0 0 1rem; color: var(--global-text-color); }
+.focus-heading { font: inherit; margin: 0 0 1rem; color: var(--global-text-color); }
 .focus-row { display: flex; gap: 1.5rem; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 4px 2px; scrollbar-width: none; }
 .focus-row::-webkit-scrollbar { display: none; }
 .focus-tile { flex: 0 0 150px; scroll-snap-align: start; background: none; border: 0; padding: 0; cursor: pointer; text-align: center; font: inherit; color: var(--global-text-color); ; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; }
