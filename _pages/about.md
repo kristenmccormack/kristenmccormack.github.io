@@ -29,12 +29,14 @@ I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and gr
 .focus-tile:focus-visible { outline: 2px solid var(--global-theme-color); outline-offset: 4px; border-radius: 8px; }
 .focus-label { display: block; font-size: 0.95rem; line-height: 1.3; }
 .focus-panels { position: relative; border-top: 1px solid var(--global-theme-color); margin-top: 0.75rem; padding-top: 0.75rem; }
+.focus-panel { font-size: 0.95rem; }
 .focus-panels::before { content: ""; position: absolute; top: -8px; left: var(--pointer-x, 79px); transform: translateX(-50%); border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 8px solid var(--global-theme-color); }
 .focus-panel ul { margin: 0; padding-left: 1.25rem; }
 .focus-panel li { margin-bottom: 0.35rem; }
 .focus-type { color: var(--global-text-color-light); }
 @media (max-width: 576px) {
   .focus-row { gap: 0.75rem; }
+  .focus-panel { font-size: 0.9rem; }
   .focus-tile { flex: 1 1 0; min-width: 90px; }
   .focus-tile img { width: 72px; height: 72px; }
   .focus-label { font-size: 0.85rem; }
