@@ -19,7 +19,7 @@ I am an economist and fellow at <a href="https://www.rff.org/people/kristen-mcco
 I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and graduated *summa cum laude* from Pomona College with a B.A. in Economics. Explore my recent work by topic below or see my <a href="/research/">research page</a> for all published and working papers, reports, and other commentary.
 
 <style>
-.focus { clear: both; max-width: 640px; margin: 2rem 0 2.5rem; }
+.focus { clear: both; max-width: 520px; margin: 2rem 0 2.5rem; }
 .focus-heading { font: inherit; margin: 0 0 1rem; color: var(--global-text-color); }
 .focus-row { display: flex; gap: 1.5rem; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 4px 2px; scrollbar-width: none; }
 .focus-row::-webkit-scrollbar { display: none; }
@@ -28,11 +28,12 @@ I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and gr
 .focus-tile[aria-expanded="true"] .focus-label { color: var(--global-theme-color); } /* delete this line to keep labels black */
 .focus-tile:focus-visible { outline: 2px solid var(--global-theme-color); outline-offset: 4px; border-radius: 8px; }
 .focus-label { display: block; font-size: 0.95rem; line-height: 1.3; }
-.focus-panels { position: relative; border-top: 1px solid var(--global-theme-color); margin-top: 0.75rem; padding-top: 0.75rem; }
+.focus-panels { position: relative; border-top: 2px solid color-mix(in srgb, var(--global-theme-color) 60%, var(--global-bg-color)); margin-top: 0.75rem; padding-top: 0.75rem; }
 .focus-panel { font-size: 0.95rem; }
-.focus-panels::before { content: ""; position: absolute; top: -8px; left: var(--pointer-x, 79px); transform: translateX(-50%); border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 8px solid var(--global-theme-color); }
+.focus-panels::before { content: ""; position: absolute; top: -8px; left: var(--pointer-x, 79px); transform: translateX(-50%); border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 8px solid color-mix(in srgb, var(--global-theme-color) 60%, var(--global-bg-color)); }
 .focus-panel ul { margin: 0; padding-left: 1.25rem; }
 .focus-panel li { margin-bottom: 0.35rem; }
+.focus-panel li::marker { color: var(--global-text-color-light); }
 .focus-type { color: var(--global-text-color-light); }
 @media (max-width: 576px) {
   .focus-row { gap: 0.75rem; }
