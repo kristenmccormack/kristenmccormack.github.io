@@ -19,7 +19,7 @@ I am an economist and fellow at <a href="https://www.rff.org/people/kristen-mcco
 I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and graduated *summa cum laude* from Pomona College with a B.A. in Economics. Explore my recent work by topic below or see my <a href="/research/">research page</a> for all published and working papers, reports, and other commentary.
 
 <style>
-.focus { clear: both; max-width: 520px; margin: 2rem 0 2.5rem; }
+.focus { clear: both; max-width: 520px; margin: 1rem 0 2.5rem; }
 .focus-heading { font: inherit; margin: 0 0 1rem; color: var(--global-text-color); }
 .focus-row { display: flex; gap: 1.5rem; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 4px 2px; scrollbar-width: none; }
 .focus-row::-webkit-scrollbar { display: none; }
