@@ -69,7 +69,7 @@ I hold a Ph.D. in Public Policy (Economics Track) from Harvard University and gr
   </div>
   <div class="focus-panel" id="focus-air" hidden>
     <ul>
-      <li><a href="https://www.resources.org/common-resources/losing-the-endangerment-finding-context-methods-and-whats-to-come/" target="_blank" rel="noopener">Losing the Endangerment Finding</a> <span class="focus-type">(blog series; report forthcoming)</span></li>
+      <li><a href="https://www.rff.org/topics/federal-climate-policy/losing-the-endangerment-finding-what-are-the-costs-and-benefits-of-deregulation/" target="_blank" rel="noopener">Losing the Endangerment Finding</a> <span class="focus-type">(blog series; report forthcoming)</span></li>
       <li><a href="https://www.resources.org/common-resources/ifthen-the-uncertain-future-of-coal-and-what-it-means-for-climate-air-quality-and-the-energy-economy/" target="_blank" rel="noopener">The uncertain future of coal</a> <span class="focus-type">(blog)</span></li>
       <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12294" target="_blank" rel="noopener">Energy markets, environmental regulation, and coal plant profits</a> <span class="focus-type">(paper)</span></li>
     </ul>
